@@ -1,0 +1,4 @@
+SELECT 
+DISTINCT UMUR
+FROM tb_karyawan
+ORDER BY UMUR;

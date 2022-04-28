@@ -1,0 +1,3 @@
+UPDATE tb_karyawan
+SET NAMA = 'Albert Addison', UMUR = 20, GAJI = 200
+WHERE ID = 1;

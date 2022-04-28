@@ -1,0 +1,3 @@
+SELECT NAMA, GAJI
+FROM tb_karyawan
+ORDER BY GAJI ASC;
