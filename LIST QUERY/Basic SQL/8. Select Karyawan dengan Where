@@ -1,0 +1,3 @@
+SELECT ID, NAMA, UMUR
+FROM tb_karyawan
+WHERE UMUR < 24;

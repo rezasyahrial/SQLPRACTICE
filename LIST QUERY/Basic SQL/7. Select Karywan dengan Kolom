@@ -1,0 +1,2 @@
+SELECT ID, NAMA
+FROM tb_karyawan;

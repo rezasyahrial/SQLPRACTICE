@@ -1,0 +1,14 @@
+INSERT INTO tb_karyawan (ID, NAMA, UMUR, ALAMAT, GAJI)
+VALUES (1, 'Reza Syahrial Putra', '23', 'Bandung', 50);
+
+INSERT INTO tb_karyawan (ID, NAMA, UMUR, ALAMAT, GAJI)
+VALUES (2, 'Nicki Minaj', '25', 'New York', 100);
+
+INSERT INTO tb_karyawan (ID, NAMA, UMUR, ALAMAT, GAJI)
+VALUES (3, 'Taylor Swift', '24', 'Los Angeles', 70);
+
+INSERT INTO tb_karyawan (ID, NAMA, UMUR, ALAMAT, GAJI)
+VALUES (4, 'Ariana Grande', '21', 'Utah', 80);
+
+INSERT INTO tb_karyawan (ID, NAMA, UMUR, ALAMAT, GAJI)
+VALUES (5, 'Robert Pattinson', '20', '', 20);

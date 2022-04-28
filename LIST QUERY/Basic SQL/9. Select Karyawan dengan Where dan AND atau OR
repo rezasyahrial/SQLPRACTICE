@@ -1,0 +1,3 @@
+SELECT ID, NAMA, GAJI
+FROM tb_karyawan
+WHERE NAMA = 'Ariana Grande' AND GAJI < 100;

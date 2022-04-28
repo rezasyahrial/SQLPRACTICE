@@ -1,0 +1,2 @@
+INSERT INTO tb_karyawan (ID, NAMA, UMUR, ALAMAT, GAJI)
+VALUES (1, 'Reza Syahrial Putra', '23', 'Bandung', 50);
