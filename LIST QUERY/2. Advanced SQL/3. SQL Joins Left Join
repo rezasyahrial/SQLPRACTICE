@@ -1,0 +1,4 @@
+SELECT ID, NAMA, Jumlah
+FROM tb_karyawan
+LEFT JOIN tb_jumlah
+ON tb_karyawan.ID = tb_jumlah.karyawan_id;

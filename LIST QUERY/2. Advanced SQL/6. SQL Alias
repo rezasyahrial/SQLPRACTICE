@@ -1,0 +1,3 @@
+SELECT K.ID, K.NAMA, J.Jumlah
+FROM tb_karyawan as K, tb_jumlah as J
+WHERE K.ID = J.karyawan_id;

@@ -1,0 +1,3 @@
+SELECT ID, NAMA, Jumlah
+FROM tb_karyawan, tb_jumlah
+WHERE tb_karyawan.ID = tb_jumlah.karyawan_id;
