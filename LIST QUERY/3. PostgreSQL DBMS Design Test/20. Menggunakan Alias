@@ -1,0 +1,3 @@
+SELECT nama, gender
+FROM binatang AS b
+WHERE id IS NOT NULL;

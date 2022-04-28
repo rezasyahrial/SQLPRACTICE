@@ -1,0 +1,9 @@
+CREATE TABLE Makanan (
+	binatang_id	serial NOT NULL,
+	jenis_id serial NOT NULL,
+	makanan VARCHAR(50) NOT NULL
+	FOREIGN KEY (binatang_id)
+		REFERENCES Binatang (id),
+	FOREIGN KEY (jenis_id)
+		REFERENCES Jenis (jenis_id)
+)

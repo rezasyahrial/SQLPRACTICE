@@ -1,0 +1,4 @@
+SELECT jenishewan, makanan
+FROM jenis
+RIGHT JOIN makanan
+ON jenis.jenis_id = makanan.jenis_id;

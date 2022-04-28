@@ -1,0 +1,3 @@
+SELECT jenishewan
+FROM jenis
+GROUP BY jenishewan;

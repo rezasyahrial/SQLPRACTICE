@@ -1,0 +1,3 @@
+SELECT id, jenis_id, nama
+FROM binatang, jenis
+WHERE binatang.id = jenis.jenis_id;

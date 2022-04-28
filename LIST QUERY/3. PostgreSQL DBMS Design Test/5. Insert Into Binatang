@@ -1,0 +1,17 @@
+INSERT INTO binatang (id, nama, gender)
+VALUES (2, 'Anjing', 'Betina');
+
+INSERT INTO binatang (id, nama, gender)
+VALUES (3, 'Anjing', 'Jantan');
+
+INSERT INTO binatang (id, nama, gender)
+VALUES (4, 'Kucing', 'Betina');
+
+INSERT INTO binatang (id, nama, gender)
+VALUES (5, 'Tikus', 'Betina');
+
+INSERT INTO binatang (id, nama, gender)
+VALUES (6, 'Tikus', 'Jantan');
+
+INSERT INTO binatang (id, nama, gender)
+VALUES (7, 'Babi', 'Betina');

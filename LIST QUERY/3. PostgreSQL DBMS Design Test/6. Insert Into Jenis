@@ -1,0 +1,14 @@
+INSERT INTO jenis (jenis_id, jenishewan, habitat)
+VALUES (1, 'Mamalia', 'Hutan');
+
+INSERT INTO jenis (jenis_id, jenishewan, habitat)
+VALUES (2, 'Reptil', 'Danau');
+
+INSERT INTO jenis (jenis_id, jenishewan, habitat)
+VALUES (3, 'Mamalia', 'Laut');
+
+INSERT INTO jenis (jenis_id, jenishewan, habitat)
+VALUES (4, 'Mamalia', 'Sungai');
+
+INSERT INTO jenis (jenis_id, jenishewan, habitat)
+VALUES (5, 'Reptil', 'Rawa - rawa');

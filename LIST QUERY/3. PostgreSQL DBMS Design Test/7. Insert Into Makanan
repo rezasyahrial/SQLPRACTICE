@@ -1,0 +1,8 @@
+INSERT INTO makanan (binatang_id, jenis_id, makanan)
+VALUES (1, 1, 'Daging');
+
+INSERT INTO makanan (binatang_id, jenis_id, makanan)
+VALUES (2, 2, 'Rumput');
+
+INSERT INTO makanan (binatang_id, jenis_id, makanan)
+VALUES (3, 3, 'Serangga');

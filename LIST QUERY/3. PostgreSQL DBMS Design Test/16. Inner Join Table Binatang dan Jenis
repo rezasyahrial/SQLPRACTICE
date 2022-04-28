@@ -1,0 +1,4 @@
+SELECT nama, jenishewan
+FROM binatang
+INNER JOIN jenis
+ON binatang.id = jenis.jenis_id;

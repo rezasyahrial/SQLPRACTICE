@@ -1,0 +1,3 @@
+UPDATE binatang
+SET gender = 'Jantan'
+WHERE id = 1;

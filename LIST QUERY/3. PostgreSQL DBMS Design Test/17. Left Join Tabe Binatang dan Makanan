@@ -1,0 +1,4 @@
+SELECT nama, makanan
+FROM binatang
+LEFT JOIN makanan
+ON binatang.id = makanan.binatang_id;

@@ -1,0 +1,4 @@
+CREATE TABLE Jenis (
+	jenis_id serial NOT NULL PRIMARY KEY,
+	habitat VARCHAR(50) NOT NULL
+)
