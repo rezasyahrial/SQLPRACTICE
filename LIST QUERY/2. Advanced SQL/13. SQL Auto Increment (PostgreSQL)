@@ -1,0 +1,6 @@
+CREATE TABLE Binatang (
+	id serial NOT NULL,
+	nama VARCHAR(50) NOT NULL,
+	jenis VARCHAR(50) NOT NULL
+	PRIMARY KEY (id)
+)
